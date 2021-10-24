@@ -1,0 +1,128 @@
+<style type="text/css">
+<!--
+.garisatasbesar {
+	list-style-position: outside;
+	border-top: 3px solid #000000;
+}
+
+.hurufarial {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.tnr {
+	font-family: Arial;
+	font-size:12px;
+}
+.tnr_huruf_kecil {
+	font-family: Arial;
+	font-size:11px;
+}
+.tnr_huruf_sedang {
+	font-family: Arial;
+	font-size:14px;
+}
+.tnr_huruf_besar {
+	font-family: Arial;
+	font-size:18px;
+}
+.garisputih {
+	list-style-position: outside;
+	border-top: 1px solid #FFFFFF;
+}
+.garisatas {
+	list-style-position: outside;
+	border-top: 1px solid #000000;
+}
+.gariskananatas {
+	list-style-position: outside;
+	border-top: 1px solid #000000;
+	border-right: 1px solid #000000;
+}
+.garisbawah {
+	list-style-position: outside;
+	border-bottom: 1px solid #000000;
+}
+.garisbawahbesar {
+	list-style-position: outside;
+	border-bottom: 3px solid #000000;
+}
+.garisatasbesar {
+	list-style-position: outside;
+	border-top: 3px solid #000000;
+}
+.gariskanan {
+	list-style-position: outside;
+	border-right: 1px solid #000000;
+}
+.gariskiri {
+	list-style-position: outside;
+	border-left: 1px solid #000000;
+}
+.kotak {
+	list-style-position: outside;
+	border-left: 1px solid #000000;
+	border-right: 1px solid #000000;
+	border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+}
+.bawahbesarkanan {
+	list-style-position: outside;
+	border-left: 1px solid #000000;
+	border-top: 1px solid #000000;
+	border-bottom: 3px solid #000000;
+	border-right: 1px solid #000000;
+}
+
+.kotakbawahbesar {
+	list-style-position: outside;
+	border-left: 1px solid #000000;
+	border-top: 1px solid #000000;
+	border-bottom: 3px solid #000000;
+}
+.kiribawahkanan {
+	list-style-position: outside;
+	border-left: 1px solid #000000;
+	border-right: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+}
+
+.kiribawah {
+	list-style-position: outside;
+	border-left: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+}
+.kananatasbawah {
+	list-style-position: outside;
+	border-right: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+	border-top: 1px solid #000000;
+}
+.kiribawahatas {
+	list-style-position: outside;
+	border-top: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+}
+.baris {
+    width: ;
+    display: inline;
+    float: left;
+    clear: left;
+    margin: 0;
+    padding:0
+}
+.sel {
+    width: ; 
+    display: inline; 
+    float: left; 
+    margin: 1px 0 0; 
+    padding: 5px 0; 
+    text-align: center; 
+    color: ; 
+    font-weight: ;
+    font-size: ;
+    font-family: ;
+	border-left: 1px solid #000000;
+	border-right: 1px solid #000000;
+} 
+-->
+</style>
